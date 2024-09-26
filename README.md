@@ -8,30 +8,30 @@ Key Features
 The modpack contains essential mods and configurations that address various aspects of Minecraft's performance:
 Chunk Loading & Distance Rendering
 
-   - BetterChunkLoading: Optimizes how chunks load in the game, reducing stutter and making chunk generation smoother.
-   - Farsight: Lets you see faraway chunks without requiring the server to send chunk updates continuously, improving both client and server performance.
+   - **BetterChunkLoading**: Optimizes how chunks load in the game, reducing stutter and making chunk generation smoother.
+   - **Farsight**: Lets you see faraway chunks without requiring the server to send chunk updates continuously, improving both client and server performance.
 
 ### FPS Optimization
 
-   - FPS Reducer: Automatically reduces the frame rate when Minecraft is idle or minimized, saving system resources.
-   - ImmediatelyFast: Makes the game load chunks and display frames faster without compromising the game's graphics.
-   - Sodium Extra: Adds more optimization settings to the Sodium mod, giving you finer control over performance adjustments.
+   - **FPS Reducer**: Automatically reduces the frame rate when Minecraft is idle or minimized, saving system resources.
+   - **ImmediatelyFast**: Makes the game load chunks and display frames faster without compromising the game's graphics.
+   - **Sodium Extra**: Adds more optimization settings to the Sodium mod, giving you finer control over performance adjustments.
 
 ### Memory Management
 
-   - FerriteCore: Reduces Minecraft's memory usage, particularly useful for larger modpacks with many blocks and entities.
-   - Saturn Optimizations: Adds optimizations that significantly reduce memory overhead, making Minecraft run smoother with less lag.
-   - Smooth Boot: Improves the game's startup time, especially on machines with multiple cores, by distributing the workload more efficiently.
+   - **FerriteCore**: Reduces Minecraft's memory usage, particularly useful for larger modpacks with many blocks and entities.
+   - **Saturn Optimizations**: Adds optimizations that significantly reduce memory overhead, making Minecraft run smoother with less lag.
+   - **Smooth Boot**: Improves the game's startup time, especially on machines with multiple cores, by distributing the workload more efficiently.
 
 ### Rendering & Graphics
 
-   - Oculus: Provides better rendering pipeline optimizations and is compatible with shaders for enhanced visuals.
-   - MakeUp-UltraFast Shaders: A lightweight shader pack that enhances visual quality without severely impacting performance, ideal for systems that struggle with more demanding shaders.
+   - **Oculus**: Provides better rendering pipeline optimizations and is compatible with shaders for enhanced visuals.
+   - **MakeUp-UltraFast Shaders**: A lightweight shader pack that enhances visual quality without severely impacting performance, ideal for systems that struggle with more demanding shaders.
 
 ### Entity Optimization
 
-   - Entity Culling: Reduces the rendering of entities that are not visible to the player, significantly boosting FPS in areas with many entities (e.g., mob farms).
-   - ModernFix: Optimizes entity and item rendering, reducing CPU load and memory usage during gameplay.
+   - **Entity Culling**: Reduces the rendering of entities that are not visible to the player, significantly boosting FPS in areas with many entities (e.g., mob farms).
+   - **ModernFix**: Optimizes entity and item rendering, reducing CPU load and memory usage during gameplay.
 
 ## RealCraft (138 Mods)
 
